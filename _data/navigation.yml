@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+  excerpt: "Things about us, and why we started this"
+#  image: 300x200.gif
+
+- title: Media
+  url: /media/
+  excerpt: "A collection of our documents, photos, music, and videos that helps you to win over anxiety"
+#  image: 300x200.gif
+
+- title: Gifts
+  url: /gifts/
+  excerpt: "A place for you to participate and win exciting gifts."
+#  image: 300x200.gif
+
+- title: Credits
+  url: /credits/
+  excerpt: "List of responsible persons, who are helping or helped us in any way, to make this project successful."
+#  image: 300x200.gif
