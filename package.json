@@ -1,10 +1,21 @@
 {
-  "name": "skinny-bones-jekyll",
+  "name": "anma_feelgood",
   "version": "1.0.0",
   "private": true,
-  "description": "A Jekyll starter site",
-  "author": "Michael Rose <michael@mademistakes.com>",
-  "homepage": "http://mademistakes.com/",
+  "description": "ANxiety MAnager app, that helps you to win over your anxiety",
+  "author": "Sarvsav Sharma",
+  "contributors": [{
+    "name": "Brendon Hayes"
+  }, {
+    "name": "Elyssa Davis"
+  }, {
+    "name": "Albee Gupta"
+  }, {
+    "name": "Neha Ganjoo"
+  }, {
+    "name": "Pankaj Kumar"
+  }],
+  "homepage": "http://anmafeelgood.com/",
   "license": "The MIT License (MIT)",
   "devDependencies": {
     "grunt": "~0.4.2",
