@@ -81,7 +81,7 @@ First and foremost, I will never share your email address or any other personal 
 Feel free to write to us:
 
 <form method="POST" action="http://formspree.io/anmafeelgood@outlook.com">
-  <input type="text" name="_replyto" placeholder="Your Name" />
+  <input type="text" name="name" placeholder="Your Name" />
   <input type="text" name="_replyto" placeholder="Your Email" />
   <textarea name="message" placeholder="Your Message"></textarea>
   <input type="hidden" name="_subject" value="[ANMAFeelGoodWeb]" />
