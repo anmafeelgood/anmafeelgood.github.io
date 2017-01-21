@@ -24,4 +24,4 @@ share: true
 <strong>M</strong>organ<br>
 <strong>N</strong>eha <strong>G</strong>anjoo<br>
 <strong>P</strong>ankaj <strong>K</strong>umar<br><br>
-Thanks to pixabay.com for providing images.
+Thanks to pixabay.com for images.
