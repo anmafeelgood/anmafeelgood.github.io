@@ -35,11 +35,7 @@ There are infinite number of ways, that you can participate in our first contest
 
 ## Gifts
 
-* Top 5 participants - T-shirts
-
-* Next, 5 participants - Stress Relief Ball
-
-* Remaining participants - Thank you note
+* Participants - Thank you note
 
 ## Terms & Conditions
 
