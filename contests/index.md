@@ -11,6 +11,8 @@ share: true
 toc: true
 ---
 
+<strong>Contest is closed and reopen in month of April.</strong>
+
 This page is all about winning.
 
 {% include toc.html %}
