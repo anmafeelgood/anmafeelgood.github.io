@@ -17,6 +17,7 @@ share: true
 <br>
 <strong>Special thanks to:</strong><br>
 <strong>A</strong>lbee <strong>G</strong>upta<br>
+<strong>A</strong>shley <strong>E</strong>lizabeth <strong>S</strong>ego
 <strong>A</strong>nnan<br>
 <strong>J</strong>enny<br>
 <strong>L</strong>iz <strong>U</strong>.<br>
