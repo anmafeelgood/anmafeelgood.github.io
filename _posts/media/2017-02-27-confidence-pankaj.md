@@ -6,6 +6,7 @@ modified:
 categories: media
 excerpt: "Key to Confidence"
 tags: [Confidence, Personal experience]
+comments: true
 ads: true
 image:
   feature:

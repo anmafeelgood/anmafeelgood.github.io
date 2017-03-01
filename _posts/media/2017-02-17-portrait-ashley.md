@@ -6,6 +6,7 @@ modified:
 categories: media
 excerpt: "Lady portrait by Ashley"
 tags: [Portrait]
+comments: true
 ads: false
 image:
   feature:

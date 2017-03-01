@@ -7,6 +7,7 @@ categories: media
 excerpt: "Beadwork by Laurie"
 tags: [Beadwork, spider, necklace]
 ads: false
+comments: true
 image:
   feature:
   teaser: "anma_bead05.jpg"

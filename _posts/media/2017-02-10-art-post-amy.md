@@ -7,6 +7,7 @@ categories: media
 excerpt: "Valentine Special art work by Sammie Johnson."
 tags: [Valentine Special, heart, roses, art]
 ads: false
+comments: true
 image:
   feature:
   teaser: "anma_art05.jpg"

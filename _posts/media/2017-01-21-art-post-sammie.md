@@ -7,6 +7,7 @@ categories: media
 excerpt: "Shaman art work by Sammie Johnson."
 tags: [beautiful shaman, art]
 ads: false
+comments: true
 image:
   feature:
   teaser: "anma_art01.jpg"

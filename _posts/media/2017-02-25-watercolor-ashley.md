@@ -6,6 +6,7 @@ modified:
 categories: media
 excerpt: "Acrylic artworks by Ashley"
 tags: [Acrylic artworks]
+comments: true
 ads: false
 image:
   feature:

@@ -6,6 +6,7 @@ modified:
 categories: media
 excerpt: "Personal Experience on OCD by Anonymous"
 tags: [OCD, Personal experience]
+comments: true
 ads: false
 image:
   feature:

@@ -6,6 +6,7 @@ modified:
 categories: media
 excerpt: "Definition of fear"
 tags: [Fear, Personal experience]
+comments: true
 ads: true
 image:
   feature:

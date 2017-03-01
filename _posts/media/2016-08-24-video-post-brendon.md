@@ -7,6 +7,7 @@ categories: media
 excerpt: "Motivational music composed by Brendon Hayes."
 tags: [motivational, video]
 ads: false
+comments: true
 image:
   feature:
   teaser: "anma_music01.jpg"
