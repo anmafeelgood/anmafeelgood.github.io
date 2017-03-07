@@ -87,6 +87,7 @@ image:
     margin-right: .5rem;" src="../../images/anma_art14.jpg" height="480" width="480" />
 
 
+***To decorate your world with these paintings,<br> purchase here: [<font color="color:blue">&#x1F49C;Ashley's Oxcart Art Shop&#x1F49C;</font>](https://www.etsy.com/shop/OxcartArt)<br><br>NOTE: Author only sell originals, so once one of her pieces is gone, it's gone! So get them while you can.***
 
 Spread love with AnMa! #FeelGood #ANMA
 

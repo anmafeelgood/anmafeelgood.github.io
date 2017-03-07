@@ -4,7 +4,7 @@ title: "[Artwork] Valentine Special"
 date: 2017-02-10T03:14:02-04:00
 modified:
 categories: media
-excerpt: "Valentine Special art work by Sammie Johnson."
+excerpt: "Valentine Special art work by Amy McGill."
 tags: [Valentine Special, heart, roses, art]
 ads: false
 comments: true
