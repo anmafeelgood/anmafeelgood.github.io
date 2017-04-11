@@ -3,7 +3,7 @@ layout: home
 permalink: /
 image:
   feature: featured-home.jpg
-title: "Latest Updates"
+title: "ANMA - Anxiety MAnager: #FeelGood App"
 ---
 
 <div class="tiles">
