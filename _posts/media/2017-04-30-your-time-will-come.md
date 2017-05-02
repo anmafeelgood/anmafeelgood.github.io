@@ -19,7 +19,7 @@ image:
     height: auto;
     width: 100%;
     align-self: flex-start;
-    margin-right: .5rem;" src="../../images/article_internet01.jpg.jpg" height="480" width="480" />
+    margin-right: .5rem;" src="../../images/article_internet01.jpg" height="480" width="480" />
 
 **Your Time Will Come**
 
