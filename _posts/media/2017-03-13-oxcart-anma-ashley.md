@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "[Video] OXCART art and ANMA Video"
+title: "OXCART art and ANMA Video"
 date: 2017-03-13T03:14:02-04:00
 modified:
 categories: media
@@ -12,8 +12,6 @@ image:
   feature:
   teaser: "anma_video_01.png"
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/42tk05kiJzg" frameborder="0" allowfullscreen></iframe>
 
 <img style="display: block;
     flex-shrink: 1;
