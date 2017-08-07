@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "[Short Stories] Start today, don't wait for tomorrow!"
-date: 2017-07-01T03:14:02-04:00
+date: 2017-07-03T03:14:02-04:00
 modified:
 categories: media
 excerpt: "Start today, don't wait for tomorrow!"
