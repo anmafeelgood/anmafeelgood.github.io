@@ -13,7 +13,13 @@ image:
   teaser: "anma_exp06.jpg"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ym3BYr-YOF4" frameborder="0" allowfullscreen></iframe>
+<img style="display: block;
+    flex-shrink: 1;
+    min-width: 0;
+    height: auto;
+    width: 100%;
+    align-self: flex-start;
+    margin-right: .5rem;" src="../../images/experience_sarvsav05.png" height="480" width="480" />
 
 I start this post of mine, with a saying from <em>William D. Brown:</em>
 
