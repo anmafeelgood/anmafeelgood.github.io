@@ -61,6 +61,8 @@ If **A** can see the causes, he can use this situation as a fuel for excellence.
 
 I told you, mind loves abstractions and it takes immense mental energy to look into the cause which most of us don’t have. We spend this mental energy in addictions, useless thoughts, gossips etc. and what not! And then we look for happiness in outer world which is the most frustrating impossibility. We don’t look into the reasons why we are unhappy. We don’t want to hold ourselves responsible for the miseries face. If that is how you want to live, you can. Ultimately, this is your life, not mine.
 
+**Author: Pankaj Kumar**
+
 Spread love with AnMa! #FeelGood #ANMA
 
 [Facebook](https://www.facebook.com/anxietymanager/)
