@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "[Beadwork] Beadwork by Laurie Smith"
+title: "[Art] Beadwork by Laurie Smith"
 date: 2017-02-16T03:14:02-04:00
 modified:
 categories: media
@@ -10,7 +10,7 @@ ads: false
 comments: true
 image:
   feature:
-  teaser: "anma_bead05.jpg"
+  teaser: "anma_article05.jpg"
 ---
 
 Beadwork by Laurie
