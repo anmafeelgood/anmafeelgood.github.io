@@ -16,13 +16,11 @@ share: true
 <strong>S</strong>arvsav <strong>S</strong>harma<br>
 <br>
 <strong>Special thanks to:</strong><br>
-<strong>A</strong>lbee <strong>G</strong>upta<br>
 <strong>A</strong>shley <strong>E</strong>lizabeth <strong>S</strong>ego<br>
 <strong>A</strong>nnan<br>
 <strong>J</strong>enny<br>
 <strong>L</strong>iz <strong>U</strong>.<br>
 <strong>L</strong>iz <strong>S</strong>.<br>
 <strong>M</strong>organ<br>
-<strong>N</strong>eha <strong>G</strong>anjoo<br>
 <strong>P</strong>ankaj <strong>K</strong>umar<br>
 Thanks to pixabay.com for images.
