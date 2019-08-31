@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "[Article] Uniniated Person"
+title: "[Article] Uninitiated Person"
 date: 2019-08-30T00:14:02
 modified:
 categories: media
